@@ -79,7 +79,7 @@ export default function ContactPage() {
               <div className="space-y-4">
                 <div>
                   <h3 className="text-sm font-semibold uppercase tracking-wide mb-1" style={{ color: '#9CA3AF' }}>Email</h3>
-                  <a href="mailto:support@swiftverify.com" className="text-base font-medium hover:underline" style={{ color: '#7C3AED' }}>support@swiftverify.com</a>
+                  <a href="mailto:support@getgetswiftverify.com" className="text-base font-medium hover:underline" style={{ color: '#7C3AED' }}>support@getgetswiftverify.com</a>
                   <p className="text-sm mt-1" style={{ color: '#6B7280' }}>Response within 1–2 business days</p>
                 </div>
                 <div>
