@@ -45,7 +45,7 @@ export default function Footer() {
           </div>
           <div>
             <h4 className="font-semibold mb-4">Contact</h4>
-            <p style={{ color: '#DDD6FE' }}>support@swiftverify.com</p>
+            <p style={{ color: '#DDD6FE' }}>support@getgetswiftverify.com</p>
             <p className="mt-2" style={{ color: '#DDD6FE' }}>8 The Green, Ste A, Dover, DE 19901</p>
             <p className="mt-2" style={{ color: '#DDD6FE' }}></p>
           </div>
