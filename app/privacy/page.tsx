@@ -48,7 +48,7 @@ export default function PrivacyPage() {
           <p className="mb-6" style={{ color: '#6B7280' }}>
             If you have questions about this Privacy Policy, please contact us at:<br />
             SwiftVerify<br />
-            8 The Green, Ste A, Dover, DE 19901<br />
+            838 Walker Road, Suite 21-2, Dover, Delaware 19904<br />
             Email: <a href="mailto:support@getgetswiftverify.com" style={{ color: '#7C3AED' }}>support@getgetswiftverify.com</a>
           </p>
         </div>
