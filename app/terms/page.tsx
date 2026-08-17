@@ -20,11 +20,11 @@ export default function TermsPage() {
           </p>
           <h2 className="text-2xl font-bold mt-8 mb-4" style={{ color: '#1F2937' }}>2. Description of Service</h2>
           <p className="mb-6" style={{ color: '#6B7280' }}>
-            SwiftVerify provides an AI-powered information and education service accessible through www.swiftverify.com. The Service is intended for informational purposes only and does not constitute professional advice.
+            SwiftVerify provides an AI-powered information and education service accessible through www.getgetswiftverify.com. The Service is intended for informational purposes only and does not constitute professional advice.
           </p>
           <h2 className="text-2xl font-bold mt-8 mb-4" style={{ color: '#1F2937' }}>3. SMS Communications</h2>
           <p className="mb-4" style={{ color: '#6B7280' }}>
-            By opting in to SMS communications, you agree to receive text messages from SwiftVerify. Standard message and data rates may apply. You may opt out at any time by replying STOP. For help, reply HELP or contact support@swiftverify.com.
+            By opting in to SMS communications, you agree to receive text messages from SwiftVerify. Standard message and data rates may apply. You may opt out at any time by replying STOP. For help, reply HELP or contact support@getgetswiftverify.com.
           </p>
           <h2 className="text-2xl font-bold mt-8 mb-4" style={{ color: '#1F2937' }}>4. Limitation of Liability</h2>
           <p className="mb-6" style={{ color: '#6B7280' }}>
@@ -32,7 +32,7 @@ export default function TermsPage() {
           </p>
           <h2 className="text-2xl font-bold mt-8 mb-4" style={{ color: '#1F2937' }}>5. Contact</h2>
           <p className="mb-6" style={{ color: '#6B7280' }}>
-            For questions about these Terms, contact us at support@swiftverify.com or 8 The Green, Ste A, Dover, DE 19901.
+            For questions about these Terms, contact us at support@getgetswiftverify.com or 8 The Green, Ste A, Dover, DE 19901.
           </p>
         </div>
       </section>
